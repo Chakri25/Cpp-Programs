@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1499364373 source:d:\anil sql\c++programs\inheritance\main.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1499364199 d:\anil sql\c++programs\inheritance\mother.h
+
+1499364299 d:\anil sql\c++programs\inheritance\daughter.h
+
+1499364922 source:d:\anil sql\c++programs\inheritance\mother.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1499364487 source:d:\anil sql\c++programs\inheritance\daughter.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+

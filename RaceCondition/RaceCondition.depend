@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1499137612 source:d:\anil sql\c++programs\racecondition\main.cpp
+	<iostream>
+	<thread>
+

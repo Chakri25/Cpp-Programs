@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499140565 source:d:\anil sql\c++programs\mutexprog\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+

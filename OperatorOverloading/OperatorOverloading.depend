@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1499377458 source:d:\anil sql\c++programs\operatoroverloading\main.cpp
+	<iostream>
+	"student.h"
+
+1499377369 d:\anil sql\c++programs\operatoroverloading\student.h
+
+1499377418 source:d:\anil sql\c++programs\operatoroverloading\student.cpp
+	<iostream>
+	"student.h"
+

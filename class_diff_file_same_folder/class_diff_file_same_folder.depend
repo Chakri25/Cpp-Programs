@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1498800864 source:d:\anil sql\c++programs\class_diff_file_same_folder\main.cpp
+	<iostream>
+	"sampleclass1.h"
+
+1498800842 d:\anil sql\c++programs\class_diff_file_same_folder\sampleclass1.h
+	<iostream>
+
